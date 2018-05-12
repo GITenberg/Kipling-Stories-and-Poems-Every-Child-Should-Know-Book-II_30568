@@ -1,0 +1,50 @@
+_repo: Kipling-Stories-and-Poems-Every-Child-Should-Know-Book-II_30568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+  editors:
+  - agent_name: Chapin, W. T. (Wallace T.)
+    alias: Chapin, Wallace T.
+    gutenberg_agent_id: '34690'
+    url: http://www.gutenberg.org/2009/agents/34690
+  - agent_name: Burt, Mary E. (Mary Elizabeth)
+    alias: Burt, Mary Elizabeth
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '6710'
+    url: http://www.gutenberg.org/2009/agents/6710
+description: ''
+gutenberg_issued: '2009-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: Biographical sketch -- Baa, Baa, Black Sheep -- Wee Willie Winkie
+  -- The dove of Dacca -- The smoke upon your altar dies -- Recessional -- L'envoi
+  -- The sing-song of Old Man Kangaroo -- Fuzzy-Wuzzy -- The English flag -- The king
+  -- To the unknown goddess -- The galley slave -- The ship that found herself --
+  A trip across a continent -- The Children of the Zodiac -- The bridge builders --
+  The miracles -- Our Lady of the Snows -- The song of the women -- The White Man's
+  burden.
+title: Kipling Stories and Poems Every Child Should Know, Book II
+url: http://www.gutenberg.org/ebooks/30568
