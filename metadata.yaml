@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '6710'
     url: http://www.gutenberg.org/2009/agents/6710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30568#Kipling-Stories-and-Poems-Every-Child-Should-Know-Book-II
 gutenberg_issued: '2009-11-30'
 gutenberg_type: Text
 identifiers:
